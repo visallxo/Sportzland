@@ -320,19 +320,19 @@ video{
 }
 
 #card1{
-    background-image: url(assets/basketball.jpg);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/sportz-land.appspot.com/o/basketball.jpg?alt=media&token=a4fc2e71-a5df-41ca-a281-266d05d173e2);
 }
 
 #card2{
-    background-image: url(assets/cricket.jpg);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/sportz-land.appspot.com/o/cricket.jpg?alt=media&token=fb909438-5c24-45a7-b729-2e70da1fd2bd);
 }
 
 #card3{
-    background-image: url(assets/football.jpg);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/sportz-land.appspot.com/o/football.jpg?alt=media&token=ebecef29-3b59-40d8-abca-714d4d49b217);
 }
 
 #card4{
-    background-image: url(assets/swim.jpg);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/sportz-land.appspot.com/o/swim.jpg?alt=media&token=5c526f7b-8a1d-4358-b471-18f1d1a75b4b);
 }
 
 .img-text h4{
